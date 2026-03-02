@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "Auracelle Orion — Geneva Cyber Week 2026 (HTML Prototype)"
+authors:
+  - family-names: "Evans"
+    given-names: "Grace-Alice"
+date-released: "2026-03-02"
+type: software
+license: MIT
+repository-code: "https://github.com/<your-org-or-user>/auracelle-orion-geneva-cyber-2026"
+abstract: >
+  Auracelle Orion is a cyber governance wargaming simulation interface prepared for Geneva Cyber Week 2026,
+  designed to stress-test coordination, decision thresholds, and cascading risk across infrastructure, software,
+  supply-chain trust, and governance domains.
